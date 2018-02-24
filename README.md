@@ -20,8 +20,10 @@ development of real wallets. A great use case is to build contract based apps. I
 * BitSquare, a decentralised Bitcoin exchange
 * ... and more
 
-# Screenshots
+<!-- # Screenshots
 
-<!-- ![screenshot1](/screenshots/synced.png) -->
+![screenshot1](/screenshots/synced.png)
 
-<!-- ![screenshot1](/screenshots/qrcode.png) -->
+![screenshot1](/screenshots/qrcode.png)
+
+-->
