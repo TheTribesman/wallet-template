@@ -1,6 +1,6 @@
-# BitcoinJ wallet template
+# KobocoinJ wallet template
 
-This application is a simple desktop Bitcoin wallet that has the following features:
+This application is a simple desktop Kobocoin wallet that has the following features:
 
 * _Simplified payment verification_, so it syncs directly from the peer to peer network.
 * It's a BIP 32 hierarchical deterministic wallet.
