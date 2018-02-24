@@ -22,6 +22,6 @@ development of real wallets. A great use case is to build contract based apps. I
 
 # Screenshots
 
-![screenshot1](/screenshots/synced.png)
+<!-- ![screenshot1](/screenshots/synced.png) -->
 
-![screenshot1](/screenshots/qrcode.png)
+<!-- ![screenshot1](/screenshots/qrcode.png) -->
