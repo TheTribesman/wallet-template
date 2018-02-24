@@ -13,7 +13,7 @@ This application is a simple desktop Kobocoin wallet that has the following feat
 * Can run on main network, testnet, local regtest mode etc.
 
 It is not designed to be used directly. Instead it's meant to be forked by developers and used as a base for the 
-development of real wallets. A great use case is to build contract based apps. It's been used as the foundation of:
+development of real wallets. A great use case is to build contract based apps. Bitcoinj wallet template (which this wallet template is based on) has been used as the foundation of:
 
 * Lighthouse, a crowdfunding wallet
 * Bitcoin Authenticator, a wallet that supports two-factor auth
