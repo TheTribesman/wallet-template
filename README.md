@@ -1,4 +1,4 @@
-# KobocoinJ wallet template
+## KobocoinJ wallet template
 
 This application is a simple desktop Kobocoin wallet that has the following features:
 
